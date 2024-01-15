@@ -1,0 +1,24 @@
+
+
+        GGGGGGGGGGGGG        CCCCCCCCCCCCCPPPPPPPPPPPPPPPPP   RRRRRRRRRRRRRRRRR        OOOOOOOOO
+     GGG::::::::::::G     CCC::::::::::::CP::::::::::::::::P  R::::::::::::::::R     OO:::::::::OO
+   GG:::::::::::::::G   CC:::::::::::::::CP::::::PPPPPP:::::P R::::::RRRRRR:::::R  OO:::::::::::::OO
+  G:::::GGGGGGGG::::G  C:::::CCCCCCCC::::CPP:::::P     P:::::PRR:::::R     R:::::RO:::::::OOO:::::::O
+ G:::::G       GGGGGG C:::::C       CCCCCC  P::::P     P:::::P  R::::R     R:::::RO::::::O   O::::::O
+G:::::G              C:::::C                P::::P     P:::::P  R::::R     R:::::RO:::::O     O:::::O
+G:::::G              C:::::C                P::::PPPPPP:::::P   R::::RRRRRR:::::R O:::::O     O:::::O
+G:::::G    GGGGGGGGGGC:::::C                P:::::::::::::PP    R:::::::::::::RR  O:::::O     O:::::O
+G:::::G    G::::::::GC:::::C                P::::PPPPPPPPP      R::::RRRRRR:::::R O:::::O     O:::::O
+G:::::G    GGGGG::::GC:::::C                P::::P              R::::R     R:::::RO:::::O     O:::::O
+G:::::G        G::::GC:::::C                P::::P              R::::R     R:::::RO:::::O     O:::::O
+ G:::::G       G::::G C:::::C       CCCCCC  P::::P              R::::R     R:::::RO::::::O   O::::::O
+  G:::::GGGGGGGG::::G  C:::::CCCCCCCC::::CPP::::::PP          RR:::::R     R:::::RO:::::::OOO:::::::O
+   GG:::::::::::::::G   CC:::::::::::::::CP::::::::P          R::::::R     R:::::R OO:::::::::::::OO
+     GGG::::::GGG:::G     CCC::::::::::::CP::::::::P          R::::::R     R:::::R   OO:::::::::OO
+        GGGGGG   GGGG        CCCCCCCCCCCCCPPPPPPPPPP          RRRRRRRR     RRRRRRR     OOOOOOOOO
+
+
+
+
+
+
